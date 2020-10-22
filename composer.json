@@ -1,0 +1,11 @@
+{
+    "name": "wcs/quete_composer2",
+    "description": "quete composer n°2",
+    "authors": [
+        {
+            "name": "Kadir",
+            "email": "kadir.albostan@gmail.com"
+        }
+    ],
+    "require": {}
+}
