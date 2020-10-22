@@ -2,8 +2,6 @@
 
 require_once '../vendor/autoload.php';
 
-use App\Wcs\hello;
+use HelloWorld\SayHello;
 
-$hello = new hello();
-
-echo $hello->getTalk();
+echo SayHello::world();
